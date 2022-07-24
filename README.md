@@ -2,4 +2,4 @@
 
 name:BYIRINGIRO Dan 
 regno: 219011529
-urls:https://danbyiringiro1.github.io/FAB/upload-web-danbyiringiro1/
+urls: danbyiringiro1.github.io/FABB/upload-web-danbyiringiro1/index.html
